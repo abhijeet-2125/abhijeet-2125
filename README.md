@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @abhijeet-2125
-- 👀  Passionate about sustainable agriculture, defense technology, and innovative housing solutions.
+- 👀  Passionate about sustainable agriculture, defense technology and innovative solutions.
 - 🌱 I’m currently pursuing B.Tech in Artificial Intelligence and data analytics at IIT Madras(Batch of 28)
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on data thinking , algorithmic and strategic development.
 - 📫 How to reach me abhijeet.kumar.iitm@gmail.com
 - ⚡ Fun fact: I spend part of my time training machines to think smarter and the rest trying to convince my flute and guitar to stay in tune. Somewhere in between, I write poems sometimes about life, sometimes about deadlines
 
