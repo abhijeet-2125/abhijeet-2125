@@ -54,7 +54,7 @@ I write poetry, play guitar & flute, love photography and enjoy turning crazy id
 ### AI / ML
 
 <p>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,spark,huggingface" />
 </p>
 
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
