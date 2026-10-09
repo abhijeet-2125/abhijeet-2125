@@ -48,7 +48,7 @@ I write poetry, play guitar & flute, love photography and enjoy turning crazy id
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java,html,css,sql" />
+<img src="https://skillicons.dev/icons?i=python,cpp,html,css,sql" />
 </p>
 
 ### AI / ML
