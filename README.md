@@ -139,22 +139,6 @@ Built a comprehensive influencer analytics platform:
 
 ---
 
-## 📊 Activity Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhijeet-2125&theme=react-dark&hide_border=true" />
-</p>
-
----
-
-## 🏅 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=abhijeet-2125&theme=tokyonight&row=2&column=4" />
-</p>
-
----
-
 ## 2026 Goals
 
 - Build impactful AI products
