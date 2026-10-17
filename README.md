@@ -75,7 +75,7 @@ I write poetry, play guitar & flute, love photography and enjoy turning crazy id
 ### Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,kubernetes,spark,grafana" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,kubernetes,PySpark,grafana" />
 </p>
 
 ---
